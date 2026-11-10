@@ -185,4 +185,4 @@ This article is an independent technical learning and knowledge-sharing contribu
 
 ## Detailed Implementation Case Study
 
-[Read the Dynamic Scaling Implementation Case Study]([Docs/implementation-case-study.md](https://github.com/gantakrishnasai1/oracle-exadata-dynamic-scaling/blob/304b549f8f8e4f658c5d171e925b1b15e3eaf8c0/Docs/README_Dynamic_Scaling_Case_Study.md))
+[Read the Dynamic Scaling Implementation Case Study](Docs/README_Dynamic_Scaling_Case_Study.md)
