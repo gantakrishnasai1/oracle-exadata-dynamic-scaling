@@ -182,3 +182,7 @@ By combining Dynamic Scaling with database performance analysis, organizations c
 ## Disclaimer
 
 This article is an independent technical learning and knowledge-sharing contribution. It is not an official Oracle implementation guide. Always refer to the applicable Oracle documentation and support guidance for your Exadata service, software version, and Dynamic Scaling engine release.
+
+## Detailed Implementation Case Study
+
+[Read the Dynamic Scaling Implementation Case Study](Docs/implementation-case-study.md)
